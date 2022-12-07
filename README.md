@@ -1,18 +1,13 @@
-# Salesforce DX Project: Next Steps
+# EnhancedLightningGrid
+Component that allows you to sort and filter data within the Lightning Experience. Use as a replacement for a Related List, or create a new grid that shows results from a custom query.
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# Installation
+After installing the package, you need to grant permission sets to users:
+1. View Sortable Data Grids
+2. Edit Sortable Data Grids
+3. Sortable Data Grids - Manage Sharing
 
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+# Documentation  
+[AppExchange Listing](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000EVK8iUAH)   
+[User Guide](../master/Enhanced%20Data%20Grid%20User%20Guide%20November%202017.pdf)  
+[Custom data providers](https://docs.google.com/document/d/e/2PACX-1vS7bBZ7yxMt9soqmd3M8rMiLh0Whj370x70mQ7fLcdYjPR75QfqynSJ0FTvrCZF4Bs1MtEXMDzFPQYi/pub)
